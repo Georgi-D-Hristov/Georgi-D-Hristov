@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Georgi Hristov</h1>
+<h1 align="center">Hi there 👋, I'm Georgi Hristov</h1>
 <h3 align="center">A .NET enthusiast.</h3>
 
 - 🌱 I’m currently learning **ASP.NET MVC and JS.**
